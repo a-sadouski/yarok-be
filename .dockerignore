@@ -1,0 +1,9 @@
+**/bin
+**/obj
+.local
+.env
+.env.*
+.idea
+.vs
+**/appsettings.*.local.json
+.git
